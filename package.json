@@ -1,0 +1,10 @@
+{
+  "name": "eth-sign-test",
+  "version": "0.0.1",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.0.2"
+  }
+}
