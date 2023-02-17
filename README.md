@@ -64,3 +64,6 @@ Message (tampered): Tampered message
 Recovered public key (tampered): 0x0406d08c1b9305c23aa2a48e9971dac7e432cdfe6e61efe4869bbf0c46740972894f7d2673c3659263b4ca5d2c1144626b449ec4e8035793ba065a92ce486e715a
 Signature valid (tampered)? false
 ```
+
+## Todo
+- [ ] Add checksum: https://github.com/ethereum/EIPs/blob/master/EIPS/eip-55.md
